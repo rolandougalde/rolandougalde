@@ -4,7 +4,7 @@ About me:
 
 - :whale: I’m an IT infrastructure professional & Coder
 - :office: I’m currently working at [International-Teleccom](https://international-telecom.com/)
-- :whale: I’m currently learning ...
+- :snake: I’m currently Python programming
 
 <!--
 - 👯 I’m looking to collaborate on ...
