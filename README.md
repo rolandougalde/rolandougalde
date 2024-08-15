@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there, I am [Rolando](https://rolandougalde.github.io/)) 👋
 
 <!--
 **rolandougalde/rolandougalde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About me:
 
-- 🔭 I’m currently working on ...
+- :office: I’m currently working at [International-Teleccom](https://international-telecom.com/)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
