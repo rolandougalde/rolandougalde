@@ -2,7 +2,7 @@
 <h1>Hi there, I am <a href="https://rolandougalde.github.io/">Rolando</a> 👋</h1>
 </div>
   
-<img src="dev-banner.jpg">
+<img src="assets/images/dev-banner.jpg">
 <a href="https://github.com/rolandougalde" target="_blank"><img src="https://img.shields.io/github/followers/rolandougalde?style=social" /></a>
 <a href="https://gitlab.com/rolandougalde" target="_blank"><img src="https://img.shields.io/gitlab/last-commit/rolandougalde/doggie-book" /></a>
 <a href="https://www.linkedin.com/in/rolando-ugalde-327a4a76/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=round-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -42,7 +42,7 @@ About me:
                <!-- <br> -->
 <h3 align="center">Shell Jobs</h3>
 <div align="center">                                       
-<a href="https://github.com/rolandougalde/shell-jobs" target="_blank"><img src="shell-jobs-thumb.jpg" width="400" alt="Shell Jobs"></a>
+<a href="https://github.com/rolandougalde/shell-jobs" target="_blank"><img src="assets/images/shell-jobs-thumb.jpg" width="400" alt="Shell Jobs"></a>
 <br>
 <p>
 <a href="https://github.com/rolandougalde/shell-jobs"" target="_blank">
@@ -63,7 +63,7 @@ About me:
 <td width="50%">
 <h3 align="center">JamStack Architecture</h3>
 <div align="center">
-<a href="https://jamstack.org/generators/" target="_blank"><img src="jamstack-thumb.jpg" width="400" alt="Jamstack generators"></a>
+<a href="https://jamstack.org/generators/" target="_blank"><img src="assets/images/jamstack-thumb.jpg" width="400" alt="Jamstack generators"></a>
 <p>
 <a href="https://github.com/rolandougalde/simple_site" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -80,7 +80,7 @@ About me:
 <td width="50%">
 <h3 align="center">Mermaid Charts</h3>
 <div align="center">
-<a href="https://mermaid.js.org/" target="_blank"><img src="mermaid-thumb.jpg" width="400" alt="Mermaid Charts"></a>
+<a href="https://mermaid.js.org/" target="_blank"><img src="assets/images/mermaid-thumb.jpg" width="400" alt="Mermaid Charts"></a>
 <p>
 <a href="https://mermaid.js.org/syntax/flowchart.html" target="_blank">
 <img src="https://img.shields.io/badge/Code-cfaae0?style=for-the-badge&logo=github&logoColor=black">
