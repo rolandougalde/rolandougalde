@@ -3,6 +3,7 @@
 </div>
   
 <img src="dev-banner.jpg">
+[![GitHub followers](https://img.shields.io/github/followers/rolandougalde?style=social)](https://github.com/rolandougalde)
 
 About me:
 
