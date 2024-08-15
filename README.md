@@ -77,6 +77,7 @@ About me:
 </td>       
 
 <td width="50%">
+<br>
 <h3 align="center">Mermaid Charts</h3>
 <div align="center">
 <a href="https://mermaid.js.org/" target="_blank"><img src="assets/images/mermaid-thumb.jpg" width="400" alt="Mermaid Charts"></a>
