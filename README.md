@@ -27,7 +27,7 @@ About me:
 <a href="https://rolandougalde.github.io/slate" target="_blank"><img src="assets/images/slate-thumb.jpg" width="400" alt="Slate Docs<"></a>
 <p>
 <a href="https://github.com/rolandougalde/slate" target="_blank">
-<img src="https://img.shields.io/badge/CODE-DD6387?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-79DAFA?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <!-- <a href="https://" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40"> -->
@@ -83,7 +83,7 @@ About me:
 <a href="https://mermaid.js.org/" target="_blank"><img src="assets/images/mermaid-thumb.jpg" width="400" alt="Mermaid Charts"></a>
 <p>
 <a href="https://mermaid.js.org/syntax/flowchart.html" target="_blank">
-<img src="https://img.shields.io/badge/Code-DD6387?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/Code-79DAFA?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <!-- <a href="https://" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4"> -->
