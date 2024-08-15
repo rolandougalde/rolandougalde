@@ -4,7 +4,7 @@
   
 <img src="dev-banner.jpg">
 <a href="https://github.com/rolandougalde" target="_blank"><img src="https://img.shields.io/github/followers/rolandougalde?style=social" /></a>
-<a href="https://www.linkedin.com/in/rolando-ugalde-327a4a76/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/rolando-ugalde-327a4a76/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=round-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 About me:
 
