@@ -46,7 +46,7 @@ About me:
 <br>
 <p>
 <a href="https://github.com/rolandougalde/shell-jobs"" target="_blank">
-<img src="https://img.shields.io/badge/CODE-DD6387?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-79DAFA?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <!--<a href="https://" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f"> -->
@@ -65,7 +65,7 @@ About me:
 <a href="https://jamstack.org/generators/" target="_blank"><img src="assets/images/jamstack-thumb.jpg" width="400" alt="Jamstack generators"></a>
 <p>
 <a href="https://github.com/rolandougalde/simple_site" target="_blank">
-<img src="https://img.shields.io/badge/CODE-DD6387?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-79DAFA?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <!-- <a href="https://" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">  -->
