@@ -3,17 +3,10 @@
 About me:
 
 - :whale: I’m an IT infrastructure professional & Coder
-- :office: I’m currently working at [International-Teleccom](https://international-telecom.com/)
-- :snake: I’m currently Python programming
-
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :office: ..currently working at [International-Teleccom](https://international-telecom.com/)
+- :snake: ..currently learning Python programming
+- :books: ..writing Dev project documentation
+- :penguin: . interested In all kind of Open Source projects.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
