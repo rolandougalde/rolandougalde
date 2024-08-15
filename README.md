@@ -56,7 +56,6 @@ About me:
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
 
 <table>
 <tr>
