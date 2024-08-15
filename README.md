@@ -1,6 +1,7 @@
 <div align="center">
-## Hi there, I am [Rolando](https://rolandougalde.github.io/) 👋
+<h1>Hi there, I am Rolando <a href="https://rolandougalde.github.io/"</a> 👋</h1>
 </div>
+  
 <img src="dev-banner.jpg">
 
 About me:
