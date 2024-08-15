@@ -24,7 +24,7 @@ About me:
 <td width="50%">
 <h3 align="center">Slate Docs</h3>
 <div align="center">
-<a href="https://rolandougalde.github.io/slate" target="_blank"><img src="asstes/images/slate-thumb.jpg" width="400" alt="Slate Docs<"></a>
+<a href="https://rolandougalde.github.io/slate" target="_blank"><img src="assets/images/slate-thumb.jpg" width="400" alt="Slate Docs<"></a>
 <p>
 <a href="https://github.com/rolandougalde/slate" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
