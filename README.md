@@ -3,7 +3,7 @@
 </div>
   
 <img src="assets/images/dev-banner.jpg">
-<a href="https://github.com/rolandougalde" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=rolandougalde.rolandougalde" alt="visitor badge"/></a>
+![Github](https://img.shields.io/badge/-Github-black?logo=github&style=social)&nbsp;&nbsp;
 <a href="https://github.com/rolandougalde" target="_blank"><img src="https://img.shields.io/github/followers/rolandougalde?style=social" /></a>
 <a href="https://gitlab.com/rolandougalde" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-black?logo=Gitlab&style=social" /></a>
 <a href="https://www.linkedin.com/in/rolando-ugalde-327a4a76/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=round-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -105,6 +105,7 @@ About me:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
+
 
 
 
