@@ -5,6 +5,7 @@
 <img src="assets/images/dev-banner.jpg">
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rolandougalde.rolandougalde)
+[![Github](https://img.shields.io/badge/-Github-black?logo=github&style=social)](https://github.com/rolandougalde)
 
 About me:
 
