@@ -7,6 +7,8 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rolandougalde.rolandougalde)
 [![Github](https://img.shields.io/badge/-Github-black?logo=github&style=social)](https://github.com/rolandougalde)&nbsp;
 [![Gitlab](https://img.shields.io/badge/-Gitlab-black?logo=gitlab&style=social)](https://gitlab.com/rolandougalde)&nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=round-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rolando-ugalde-327a4a76)&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=round-square&logo=facebook&logoColor=white)](https://www.facebook.com/rolando.ugalde
 
 About me:
 
