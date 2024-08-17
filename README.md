@@ -1,7 +1,7 @@
 <div align="center">
-<h1>Hi there, I am <a href="https://rolandougalde.github.io/">Rolando</a> 👋</h1>
+# Welcome!
+  <h1>Hi there, I am <a href="https://rolandougalde.github.io/">Rolando</a> 👋</h1>
 </div>
-# 
 <img src="assets/images/dev-banner.jpg">
 <a href="https://github.com/rolandougalde" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=rolandougalde.rolandougalde" alt="visitor badge" /></a>
 <a href="https://github.com/rolandougalde" target="_blank"><img src="https://img.shields.io/badge/-Github-black?logo=github&style=social" /></a>
