@@ -1,5 +1,4 @@
 <div align="center">
-# Welcome!
   <h1>Hi there, I am <a href="https://rolandougalde.github.io/">Rolando</a> 👋</h1>
 </div>
 <img src="assets/images/dev-banner.jpg">
@@ -8,7 +7,8 @@
 <a href="https://gitlab.com/rolandougalde" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-black?logo=Gitlab&style=social" /></a>
 <a href="https://www.linkedin.com/in/rolando-ugalde-327a4a76/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=round-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/rolando.ugalde" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=round-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
+
+[![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)](https://github.com/rolandougalde)&nbsp;&nbsp;
 
 About me:
 
