@@ -101,6 +101,7 @@ About me:
 
 ![VMWare](https://img.shields.io/badge/-VMWare-black?logo=vmware&style=social)&nbsp;
 ![VMWare](https://img.shields.io/badge/-Debian-black?logo=debian&style=social)&nbsp;
+![NGinx](https://img.shields.io/badge/-NGinx-black?logo=nginx&style=social)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;
