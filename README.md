@@ -1,7 +1,11 @@
 <div align="center">
   <h1>Hi there, I am <a href="https://rolandougalde.github.io/">Rolando</a> 👋</h1>
 </div>
+
 <img src="assets/images/dev-banner.jpg">
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rolandougalde.rolandougalde)
+[![Docker](https://img.shields.io/badge/-Github-black?logo=github&style=social)](https://github.com/rolandougalde)
+
 <a href="https://github.com/rolandougalde" target="_blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=rolandougalde.rolandougalde" alt="visitor badge" /></a>
 <a href="https://github.com/rolandougalde" target="_blank"><img src="https://img.shields.io/badge/-Github-black?logo=github&style=social" /></a>
 <a href="https://gitlab.com/rolandougalde" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-black?logo=Gitlab&style=social" /></a>
