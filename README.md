@@ -3,6 +3,7 @@
 </div>
 
 <img src="assets/images/dev-banner.jpg">
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rolandougalde.rolandougalde)
 
 About me:
