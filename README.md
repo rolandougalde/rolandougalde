@@ -101,14 +101,16 @@ About me:
 
 ![VMWare](https://img.shields.io/badge/-VMWare-black?logo=vmware&style=social)&nbsp;
 ![VMWare](https://img.shields.io/badge/-Debian-black?logo=debian&style=social)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)
 ![NGinx](https://img.shields.io/badge/-NGinx-black?logo=nginx&style=social)&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;
 ![Python](https://img.shields.io/badge/-Markdown-black?logo=Markdown&style=social)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
