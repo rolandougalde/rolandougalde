@@ -95,7 +95,7 @@ About me:
 </td>  
 </table>              
 
-## Design & UI
+## Design & UI Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
@@ -104,9 +104,6 @@ About me:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
-
-
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
