@@ -96,6 +96,11 @@ About me:
 </td>  
 </table>              
 
+## Software & UI
+
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
