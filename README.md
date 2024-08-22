@@ -107,10 +107,9 @@ About me:
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;
-![Python](https://img.shields.io/badge/-Markdown-black?logo=Markdown&style=social)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;
-
-
+![Markdown](https://img.shields.io/badge/-Markdown-black?logo=Markdown&style=social)&nbsp;
+![Mermaid](https://img.shields.io/badge/-Mermais-black?logo=mermaid&style=social)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
