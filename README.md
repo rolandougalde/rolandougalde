@@ -108,7 +108,7 @@ About me:
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-black?logo=Markdown&style=social)&nbsp;
-![Mermaid](https://img.shields.io/badge/-Mermais-black?logo=mermaid&style=social)&nbsp;
+![Mermaid](https://img.shields.io/badge/-Mermaid-black?logo=mermaid&style=social)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)
 
 ### ⚙️ &nbsp;GitHub Analytics
