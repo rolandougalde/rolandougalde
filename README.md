@@ -28,7 +28,7 @@ About me:
 <div align="center">
 <a href="https://rolandougalde.github.io/slate" target="_blank"><img src="assets/images/slate-thumb.jpg" width="400" alt="Slate Docs<"></a>
 <p>
-<a href="https://github.com/rolandougalde/slate" target="_blank">
+<a href="https://github.com/slatedocs/slate" target="_blank">
 <img src="https://img.shields.io/badge/CODE-79DAFA?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <!-- <a href="https://" target="_blank">
