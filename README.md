@@ -26,7 +26,7 @@ About me:
 <td width="50%">
 <h3 align="center">Python Notes</h3>
 <div align="center">
-<a href="https://rolandougalde.github.io/python_notes" target="_blank"><img src="assets/images/slate-thumb.jpg" width="400" alt="Python Notes<"></a>
+<a href="https://rolandougalde.github.io/python_notes" target="_blank"><img src="assets/images/python-thumb.jpg" width="400" alt="Python Notes<"></a>
 <p>
 <a href="https://github.com/slatedocs/python_notes" target="_blank">
 <img src="https://img.shields.io/badge/CODE-79DAFA?style=for-the-badge&logo=github&logoColor=black">
