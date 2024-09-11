@@ -35,7 +35,9 @@ About me:
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40"> -->
 </a>
 </p>
-<p>A knowledge base on a JAMstack Slate site generator is a static, fast, and scalable documentation platform. It supports markdown content, customizable themes, and integrates with modern CI/CD pipelines for seamless updates.</p>
+<p>Unlock the power of Python in this beginner-friendly tutorial designed for all kind of learners. With step-by-step 
+guidance and comfortable exercises, you'll grasp core programming concepts with ease. Our supportive approach ensures 
+you feel confident and encouraged throughout the journey, making learning both rewarding and enjoyable.</p>
 </div>
                                                                                       
 </td>
