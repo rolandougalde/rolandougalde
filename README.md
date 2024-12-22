@@ -113,7 +113,7 @@ you feel confident and encouraged throughout the journey, making learning both r
 ![Mermaid](https://img.shields.io/badge/-Mermaid-black?logo=mermaid&style=social)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)
-![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)
+![Python](https://img.shields.io/badge/-Ruby-black?logo=ruby&style=social)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
