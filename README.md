@@ -14,7 +14,7 @@ About me:
 
 - :whale: I’m an IT infrastructure professional & Coder.
 - :office: ..currently working at [International-Teleccom](https://international-telecom.com/)
-- :snake: ..currently learning SQL Querying.
+- :mag_right: ..currently learning SQL Querying.
 - :books: ..writing Dev projects documentation.
 - :penguin: ..looking for all kind of Open Source projects.
 - :black_nib: ..want to create a MarkDown based, APA compliant.
