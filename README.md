@@ -107,7 +107,7 @@ you feel confident and encouraged throughout the journey, making learning both r
 ![NGinx](https://img.shields.io/badge/-NGinx-black?logo=nginx&style=social)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)
+![SCSS](https://img.shields.io/badge/-SCSS-black?logo=scss3&style=social)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)
 ![PHO](https://img.shields.io/badge/-Php-black?logo=php&style=social)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?logo=Markdown&style=social)
