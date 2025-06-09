@@ -99,7 +99,7 @@ you feel confident and encouraged throughout the journey, making learning both r
 </td>  
 </table>              
 
-## Design & UI Technologies
+## Covered Technologies
 
 ![VMWare](https://img.shields.io/badge/-VMWare-black?logo=vmware&style=social)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-black?logo=proxmox&style=social)
