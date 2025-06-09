@@ -104,6 +104,7 @@ you feel confident and encouraged throughout the journey, making learning both r
 ![VMWare](https://img.shields.io/badge/-VMWare-black?logo=vmware&style=social)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-black?logo=proxmox&style=social)
 ![Debian](https://img.shields.io/badge/-Debian-black?logo=debian&style=social)
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-black?logo=freebsd&style=social)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)
 ![NGinx](https://img.shields.io/badge/-NGinx-black?logo=nginx&style=social)
 ![Apache](https://img.shields.io/badge/-Apache-black?logo=apache&style=social)
