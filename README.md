@@ -102,6 +102,7 @@ you feel confident and encouraged throughout the journey, making learning both r
 ## Design & UI Technologies
 
 ![VMWare](https://img.shields.io/badge/-VMWare-black?logo=vmware&style=social)
+![Proxmox](https://img.shields.io/badge/-Proxmox-black?logo=proxmox&style=social)
 ![Debian](https://img.shields.io/badge/-Debian-black?logo=debian&style=social)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)
 ![NGinx](https://img.shields.io/badge/-NGinx-black?logo=nginx&style=social)
