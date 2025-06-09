@@ -116,6 +116,7 @@ you feel confident and encouraged throughout the journey, making learning both r
 ![Markdown](https://img.shields.io/badge/-Markdown-black?logo=Markdown&style=social)
 ![Mermaid](https://img.shields.io/badge/-Mermaid-black?logo=mermaid&style=social)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)
+![MariaDB](https://img.shields.io/badge/-MariaDB-black?logo=mariadb&style=social)
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?logo=ruby&style=social)
 
