@@ -105,7 +105,7 @@ you feel confident and encouraged throughout the journey, making learning both r
 ![Debian](https://img.shields.io/badge/-Debian-black?logo=debian&style=social)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)
 ![NGinx](https://img.shields.io/badge/-NGinx-black?logo=nginx&style=social)
-![Apache2](https://img.shields.io/badge/-Apaches-black?logo=apache&style=social)
+![Apache](https://img.shields.io/badge/-Apache-black?logo=apache&style=social)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)
 ![CSS](https://img.shields.io/badge/-CSS-black?logo=css&style=social)
