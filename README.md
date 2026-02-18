@@ -114,6 +114,7 @@ you feel confident and encouraged throughout the journey, making learning both r
 ![XML](https://img.shields.io/badge/-XML-black?logo=xml&style=social)
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)
+![MicroPython](https://img.shields.io/badge/-MicroPyrhon-black?logo=micropython&style=social)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?logo=ruby&style=social)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)
