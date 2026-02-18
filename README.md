@@ -13,8 +13,8 @@
 About me:
 
 - :whale: I’m an IT infrastructure professional & Coder.
-- :office: ..currently working at [International-Teleccom](https://international-telecom.com/)
-- :mag_right: ..currently learning SQL Querying.
+- :office: ..currently working at [Conceta FCB International](https://conectafbc.biz/)
+- :mag_right: ..currently learning Micro Python on ESP32-S3 and M5Stack.
 - :books: ..writing Dev projects documentation.
 - :penguin: ..looking for all kind of Open Source projects.
 - :black_nib: ..want to create a MarkDown based, APA compliant.
