@@ -24,9 +24,9 @@ About me:
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">SQL Exercices</h3>
+<h3 align="center">SQL Exercises</h3>
 <div align="center">
-<a href="https://rolandougalde.github.io/sql_exercises/" target="_blank"><img src="assets/images/sql_thumb.jpg" width="400" alt="SQL Exercises<"></a>
+<a href="https://github.com/rolandougalde/sql_exercises/" target="_blank"><img src="assets/images/sql_thumb.jpg" width="400" alt="SQL Exercises<"></a>
 <p>
 <a href="https://github.com/rolandougalde/sql_exercises" target="_blank">
 <img src="https://img.shields.io/badge/CODE-79DAFA?style=for-the-badge&logo=github&logoColor=black">
@@ -55,7 +55,8 @@ About me:
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f"> -->
 </a>
 </p>
-<p>Scripts for common tasks like backups, file synchronization, and server configurations automate routine operations. They enhance efficiency by scheduling tasks, reducing manual effort, ensuring consistency, and improving system reliability. These scripts often use shell.</p>
+<p>Scripts for common tasks, backups, file synchronization, and servers automation.
+</p>
 </div>                                                             
 </table>                                                                                 
 </div>
