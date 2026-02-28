@@ -43,9 +43,9 @@ About me:
 
 <td width="50%">
                <!-- <br> -->
-<h3 align="center">Shell Jobs</h3>
+<h3 align="center">Micro Python Coding</h3>
 <div align="center">                                       
-<a href="https://github.com/rolandougalde/shell-jobs" target="_blank"><img src="assets/images/shell-jobs-thumb.jpg" width="400" alt="Shell Jobs"></a>
+<a href="https://github.com/rolandougalde/shell-jobs" target="_blank"><img src="assets/images/mcpy_thumb.jpg" width="400" alt="Shell Jobs"></a>
 <br>
 <p>
 <a href="https://github.com/rolandougalde/shell-jobs"" target="_blank">
@@ -55,7 +55,7 @@ About me:
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f"> -->
 </a>
 </p>
-<p>Scripts for common tasks, backups, file synchronization, and servers automation.
+<p>An experimental project using ESP32 controllers to test coding math operations.
 </p>
 </div>                                                             
 </table>                                                                                 
