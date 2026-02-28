@@ -24,20 +24,19 @@ About me:
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Python Notes</h3>
+<h3 align="center">SQL Exercices</h3>
 <div align="center">
-<a href="https://rolandougalde.github.io/python_notes/" target="_blank"><img src="assets/images/python_thumb.jpg" width="400" alt="Python Notes<"></a>
+<a href="https://rolandougalde.github.io/sql_exercises/" target="_blank"><img src="assets/images/sql_thumb.jpg" width="400" alt="SQL Exercises<"></a>
 <p>
-<a href="https://github.com/rolandougalde/python_notes" target="_blank">
+<a href="https://github.com/rolandougalde/sql_exercises" target="_blank">
 <img src="https://img.shields.io/badge/CODE-79DAFA?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <!-- <a href="https://" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40"> -->
 </a>
 </p>
-<p>Unlock the power of Python in this beginner-friendly tutorial designed for all kind of learners. With step-by-step 
-guidance and comfortable exercises, you'll grasp core programming concepts with ease. Our supportive approach ensures 
-you feel confident and encouraged throughout the journey, making learning both rewarding and enjoyable.</p>
+<p>A traditional Transact-SQL review, and common understandable practice queries.
+</p>
 </div>
                                                                                       
 </td>
