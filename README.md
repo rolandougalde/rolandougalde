@@ -26,9 +26,9 @@ About me:
 <td width="50%">
 <h3 align="center">SQL Exercises</h3>
 <div align="center">
-<a href="https://github.com/rolandougalde/sql_exercises/tree/main/code/" target="_blank"><img src="assets/images/sql_thumb.jpg" width="400" alt="SQL Exercises<"></a>
+<a href="https://github.com/rolandougalde/sql_exercises/" target="_blank"><img src="assets/images/sql_thumb.jpg" width="400" alt="SQL Exercises<"></a>
 <p>
-<a href="https://github.com/rolandougalde/sql_exercises" target="_blank">
+<a href="https://github.com/rolandougalde/sql_exercises/tree/main/code/" target="_blank">
 <img src="https://img.shields.io/badge/CODE-79DAFA?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <!-- <a href="https://" target="_blank">
