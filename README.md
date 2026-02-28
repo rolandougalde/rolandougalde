@@ -43,7 +43,7 @@ About me:
 
 <td width="50%">
                <!-- <br> -->
-<h3 align="center">Micro Python Coding</h3>
+<h3 align="center">MicroPython Coding</h3>
 <div align="center">                                       
 <a href="https://github.com/rolandougalde/shell-jobs" target="_blank"><img src="assets/images/mcpy_thumb.jpg" width="400" alt="Shell Jobs"></a>
 <br>
