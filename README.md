@@ -123,6 +123,7 @@ About me:
 ![Mermaid](https://img.shields.io/badge/-Mermaid-black?logo=mermaid&style=social)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?logo=mariadb&style=social)
+![Espressif](https://img.shields.io/badge/-Espressif-black?logo=espressif&style=social)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
